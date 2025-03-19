@@ -1,0 +1,15 @@
+{
+  "name": "english_repite",
+  "version": "1.0.0",
+  "description": "repite english",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Siang",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "puppeteer": "^24.4.0"
+  }
+}
